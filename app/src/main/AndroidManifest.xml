@@ -12,8 +12,8 @@
         android:theme="@style/Theme.RCDiary"
         tools:targetApi="31">
         <activity
-            android:name=".NoteActivity"
-            android:exported="false" />
+            android:name=".MainActivity"
+            android:exported="true"/>
         <activity
             android:name=".LoginActivity"
             android:exported="true">
